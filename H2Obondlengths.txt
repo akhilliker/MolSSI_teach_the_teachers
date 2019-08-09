@@ -1,0 +1,2 @@
+O to H1 bond distance:  0.969 angstroms. 
+O to H2 bond distance:  0.969 angstroms. 
