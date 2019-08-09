@@ -1,6 +1,7 @@
 """
 geometry_analysis.py
 This module contains the geometry analysis project.
+To run in terminal: python geometry_analysis.py {file_to_analyze.xyz}
 """
 
 # Best practice: do all imports at the top
